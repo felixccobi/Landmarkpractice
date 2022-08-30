@@ -1,3 +1,4 @@
 john 
 buk
-krystal
+krysta
+emmal
